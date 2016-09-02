@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HMCZ.iml" filepath="$PROJECT_DIR$/HMCZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HtmlViewer/HtmlViewer.iml" filepath="$PROJECT_DIR$/HtmlViewer/HtmlViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCMVPMVVM/MVCMVPMVVM.iml" filepath="$PROJECT_DIR$/MVCMVPMVVM/MVCMVPMVVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetImageViewer/NetImageViewer.iml" filepath="$PROJECT_DIR$/NetImageViewer/NetImageViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewUtilsDemo/ViewUtilsDemo.iml" filepath="$PROJECT_DIR$/ViewUtilsDemo/ViewUtilsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YouKouVideo/YouKouVideo.iml" filepath="$PROJECT_DIR$/YouKouVideo/YouKouVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javatest/javatest.iml" filepath="$PROJECT_DIR$/javatest/javatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadpooltest/threadpooltest.iml" filepath="$PROJECT_DIR$/threadpooltest/threadpooltest.iml" />
+    </modules>
+  </component>
+</project>
